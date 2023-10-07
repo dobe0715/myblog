@@ -1,5 +1,5 @@
 baseURL = "https://dobe0715.github.io"
-title = "ExampleSite"
+title = "블로그 홈"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -70,20 +70,13 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my blog"
+  Title = "Hello World"
+  Content = "안녕하세용"
 
-  [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/dobe0715"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
@@ -124,12 +117,6 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 20
-
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
 
 [markup.highlight]
 noClasses = false
