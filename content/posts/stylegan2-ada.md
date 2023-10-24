@@ -1,3 +1,7 @@
++++
+title = "Training Generative Adversarial Networks with Limited Data (stylegan2-ada) review"
++++
+
 # Review : Training Generative Adversarial Networks with Limited Data (stylegan2-ada)
 + ADA(Adaptive Discriminator Augmentation)
 + 필요한 데이터 수십, 수백만장 -> 수 천장

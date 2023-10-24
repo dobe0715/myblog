@@ -1,3 +1,8 @@
++++
+title = "Image Style Transfer Using Convolutional Neural Networks review"
++++
+
+
 # Review : Image Style Transfer Using Convolutional Neural Networks
 + 딥러닝을 이용하여 style을 합성을 시도한 초기 모델.
 

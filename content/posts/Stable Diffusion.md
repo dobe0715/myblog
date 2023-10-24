@@ -1,3 +1,6 @@
++++
+title = "High-Resolution Image Synthesis with Satent Diffusion Models(Stable Diffusion) review"
++++
 # High-Resolution Image Synthesis with Satent Diffusion Models(Stable Diffusion)
 
 참고자료

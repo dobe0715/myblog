@@ -1,3 +1,7 @@
++++
+title = "Variational Diffusion Models review"
++++
+
 # Variational Diffusion Models(2021)
 참고링크
 + 유튜브 : https://www.youtube.com/watch?v=yR81b3UxgaI&t=1354s

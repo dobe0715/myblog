@@ -1,3 +1,7 @@
++++
+title = 'Score Based Models 정리본'
++++
+
 # Score Based Model
 __(Reference)__
 + 2011(denoising score matching) https://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf

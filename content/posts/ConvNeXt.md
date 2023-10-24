@@ -1,6 +1,5 @@
 +++
 title = 'ConvNeXt review'
-data = 2023-10-07T19:16:59+09:00
 +++
 
 # A ConvNet for the 2020s

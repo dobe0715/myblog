@@ -1,3 +1,7 @@
++++
+title = 'Improved DDPM, Diffusion models beat GANs'
++++
+
 ## 참고자료
 + blogs
     + (lil log, what are Diffusion Models?) : https://lilianweng.github.io/posts/2021-07-11-diffusion-models/

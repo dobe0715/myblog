@@ -1,3 +1,7 @@
++++
+title = "SDEdit 실습"
++++
+
 ```python
 import sys
 sys.version

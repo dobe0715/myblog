@@ -1,3 +1,7 @@
++++
+title = "VAE 정리본"
++++
+
 # VAE
 (송경우교수님 딥러닝강의 2022) https://www.youtube.com/watch?v=V-lWbJtNzTc&list=PLeiav_J6JcY8iFItzNZ_6PMlz9W4_jz5J&index=58
 

@@ -1,3 +1,7 @@
++++
+title = "Wasserstein GAN review"
++++
+
 # Review : Wasserstein GAN
 + 새로운 metric을 통한 GAN의 loss를 제시.
 + 분류모델같은경우는 정답이 확실히 정해져있어서 모델의 loss를 확실히 정량화 할 수 있었다.(cross-entropy, mse 등)

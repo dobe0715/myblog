@@ -1,3 +1,7 @@
++++
+title = 'Neural Ordinary Differential Equations review'
++++
+
 # Neural Ordinary Differential Equations
 
 참고자료

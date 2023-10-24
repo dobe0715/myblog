@@ -1,3 +1,7 @@
++++
+title = 'CNN 모델 정리'
++++
+
 # Inception Net(GoogLeNet)  
 + https://arxiv.org/pdf/1409.4842.pdf
 + 참고 블로그  

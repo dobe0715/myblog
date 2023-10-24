@@ -1,3 +1,7 @@
++++
+title = 'Denoising Diffusion Probabilistic Models(DDPM) reivew'
++++
+
 # Denoising Diffusion Probabilistic Models
 참고 링크
 + Diffusion Model 수학이 포함된 tutorial : https://www.youtube.com/watch?v=uFoGaIVHfoE

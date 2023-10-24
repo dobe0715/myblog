@@ -1,3 +1,7 @@
++++
+title = 'AdaIN style transfer'
++++
+
 # paper review : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 
 + 적응형 instance normalization을 이용해 임의의 style transfer를 진행하는 모델

@@ -1,3 +1,7 @@
++++
+title = 'Zero-shot Image-to-Image Translation(pix2pix zero) review'
++++
+
 # Review : Zero-shot Image-to-Image Translation(pix2pix zero)
 + pre-train된 모델만으로 pix2pix 작업을 완성도 있게 수행한 모델
 
